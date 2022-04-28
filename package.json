@@ -6,7 +6,7 @@
   "bugs": "https://github.com/funpokes/bing-image-search-async-iterator/issues",
   "dependencies": {
     "core-js": "^3.1.4",
-    "cross-fetch": "^2.2.3"
+    "cross-fetch": "^3.1.5"
   },
   "devDependencies": {
     "@babel/cli": "^7.0.0",
