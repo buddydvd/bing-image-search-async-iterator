@@ -5,21 +5,21 @@
   "author": "David Hu",
   "bugs": "https://github.com/funpokes/bing-image-search-async-iterator/issues",
   "dependencies": {
-    "core-js": "^3.1.4",
-    "cross-fetch": "^2.2.3"
+    "core-js": "^3.26.1",
+    "cross-fetch": "^3.1.5"
   },
   "devDependencies": {
-    "@babel/cli": "^7.0.0",
-    "@babel/core": "^7.0.0",
-    "@babel/plugin-external-helpers": "^7.0.0",
-    "@babel/plugin-proposal-async-generator-functions": "^7.0.0",
-    "@babel/plugin-proposal-object-rest-spread": "^7.0.0",
-    "@babel/preset-env": "^7.0.0",
+    "@babel/cli": "^7.19.3",
+    "@babel/core": "^7.20.2",
+    "@babel/plugin-external-helpers": "^7.18.6",
+    "@babel/plugin-proposal-async-generator-functions": "^7.20.1",
+    "@babel/plugin-proposal-object-rest-spread": "^7.20.2",
+    "@babel/preset-env": "^7.20.2",
     "babel-plugin-add-module-exports": "^0.2.1",
-    "eslint": "^6.0.1",
+    "eslint": "^8.27.0",
     "eslint-config-airbnb-base": "^13.2.0",
-    "eslint-plugin-import": "^2.18.0",
-    "eslint-plugin-node": "^9.1.0"
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-node": "^9.2.0"
   },
   "engines": {
     "node": ">=6"
