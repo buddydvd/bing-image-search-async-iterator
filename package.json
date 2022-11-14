@@ -1,7 +1,7 @@
 {
   "name": "bing-image-search-async-iterator",
   "description": "Async iterator for Bing Image Search API call responses",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "author": "David Hu",
   "bugs": "https://github.com/funpokes/bing-image-search-async-iterator/issues",
   "dependencies": {
