@@ -1,6 +1,6 @@
 import fetch from 'cross-fetch';
 
-const apiEndPoint = 'https://api.cognitive.microsoft.com/bing/v7.0/images/search';
+const apiEndPoint = 'https://api.bing.microsoft.com/v7.0/images/search';
 const HEADERS = {
   API_KEY:      'Ocp-Apim-Subscription-Key',
   CLIENT_ID:    'X-MSEdge-ClientID',
